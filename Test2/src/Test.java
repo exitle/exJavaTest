@@ -5,6 +5,7 @@ import javax.swing.*;
 public class Test extends JFrame {
 	//testing 1,2.
 	//testing 3,4
+	//testing 5,6
 
 	private static final long serialVersionUID = 1L;
 	private JPanel jContentPane = null;
