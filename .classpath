@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="BlackJack/src"/>
+	<classpathentry kind="src" path="MultiplicationTable/src"/>
+	<classpathentry kind="src" path="Test/src"/>
+	<classpathentry kind="src" path="Test2/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="BlackJack/bin"/>
+</classpath>
