@@ -22,7 +22,7 @@ public class Deck {
 	}
 	
 	public List<Card> initDeck(){
-        this.deck = new ArrayList<Card>();
+        this.deck = new ArrayList<Card>(52);
         for(int i=0; i<this.cards.length;i++){
             for (String suit : suits) {
             	Card c = new Card(suit + this.cards[i], this.values[i]);
@@ -34,7 +34,7 @@ public class Deck {
 	
 	public List<Card> shuffle(){
 		this.initDeck();
-		List<Card> tempDeck = new ArrayList<Card>();
+		List<Card> tempDeck = new ArrayList<Card>(52);
 		Iterator<Card> it = deck.iterator();
 		
 		while(it.hasNext()){
@@ -51,7 +51,8 @@ public class Deck {
 		return deck;
 	}
     
-	public String printDeck(){
+	@Override
+	public String toString(){
 		String strDeck = "";
 		for (int i=0;i<deck.size();i++){
 			strDeck += deck.get(i).getCard() + ((i>=deck.size()-1) ? "" : ", ");
