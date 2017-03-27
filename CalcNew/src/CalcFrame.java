@@ -9,10 +9,14 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import javax.script.ScriptEngine;
+import javax.script.ScriptEngineManager;
+import javax.script.ScriptException;
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JComponent;
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
@@ -29,7 +33,8 @@ public class CalcFrame extends JFrame implements ActionListener {
    private final JTextField txtInput;
    private static final String[] numBtns = { "7", "8", "9", "4", "5", "6", "1", "2", "3", "0", ",", "%" };
    private static final String[] signBtns = { "+", "x", "(", "-", "/", ")" };
-   private static final String[][] execBtns = { { "x\u00B2", "squareBtn" }, { "\u221A", "rootBtn" }, { "C", "clearBtn" } };
+   private static final String[][] execBtns = { { "x\u00B2", "squareBtn" }, { "\u221A", "rootBtn" },
+         { "C", "clearBtn" } };
    private final JPanel numBtnPanel;
    private final JPanel signBtnPanel;
    private final JPanel btnPanel;
@@ -70,18 +75,45 @@ public class CalcFrame extends JFrame implements ActionListener {
          numBtnPanel.add(numBtn[i]);
          numBtn[i].addActionListener(this);
          numBtn[i].setName(numBtns[i]);
+         numBtn[i].setBackground(new java.awt.Color(224, 224, 224));
       }
       for (int i = 0; i < execBtns.length; i++) {
          execBtn[i] = new JButton(execBtns[i][0]);
          signBtnPanel.add(execBtn[i]);
          execBtn[i].setName(execBtns[i][1]);
+         execBtn[i].setBackground(new java.awt.Color(224, 224, 224));
       }
       for (int i = 0; i < signBtns.length; i++) {
          sigBtn[i] = new JButton(signBtns[i]);
          signBtnPanel.add(sigBtn[i]);
          sigBtn[i].addActionListener(this);
          sigBtn[i].setName(signBtns[i]);
+         sigBtn[i].setBackground(new java.awt.Color(224, 224, 224));
       }
+
+      
+      execBtn[0].addActionListener(new java.awt.event.ActionListener() {
+         public void actionPerformed(java.awt.event.ActionEvent evt) {
+            pow_Click();
+         }
+      });
+      execBtn[1].addActionListener(new java.awt.event.ActionListener() {
+         public void actionPerformed(java.awt.event.ActionEvent evt) {
+            root_Click();
+         }
+      });
+      execBtn[2].addActionListener(new java.awt.event.ActionListener() {
+         public void actionPerformed(java.awt.event.ActionEvent evt) {
+            clear_Click();
+         }
+      });
+      execBtn[2].setBackground(new java.awt.Color(229, 59, 59));
+      evalBtn.addActionListener(new java.awt.event.ActionListener() {
+         public void actionPerformed(java.awt.event.ActionEvent evt) {
+            equals_Click();
+         }
+      });
+      evalBtn.setBackground(new java.awt.Color(71, 76, 202));
 
       signBtnPanel.add(evalBtn, BorderLayout.EAST);
       btnPanel.add(numBtnPanel, BorderLayout.SOUTH);
@@ -92,6 +124,21 @@ public class CalcFrame extends JFrame implements ActionListener {
       txtPanel.setFocusable(false);
       add(txtPanel, BorderLayout.NORTH);
 
+   }
+
+   protected void pow_Click() {
+      
+   }
+   protected void root_Click() {
+      
+   }
+   protected void clear_Click() {
+      this.txtInput.setText("");
+      super.requestFocus();
+   }
+   protected void equals_Click() {
+      eval();
+      super.requestFocus();
    }
 
    @Override
@@ -110,7 +157,7 @@ public class CalcFrame extends JFrame implements ActionListener {
             this.txtInput.setText("");
             break;
          case KeyEvent.VK_ENTER:
-            // eval()
+            eval();
             break;
          case KeyEvent.VK_BACK_SPACE:
             if (this.txtInput.getText().length() == 0)
@@ -172,6 +219,58 @@ public class CalcFrame extends JFrame implements ActionListener {
 
       }
 
+   }
+
+   private void eval() {
+      ScriptEngineManager mgr = new ScriptEngineManager();
+      ScriptEngine engine = mgr.getEngineByName("JavaScript");
+
+      String equ = this.txtInput.getText();
+      String str = null;
+      String result = null;
+
+      if (equ.contains("^") || equ.contains("-") || equ.contains("+") || equ.contains("*") || equ.contains("/")
+            || equ.contains("pow") || equ.contains("sqrt")) {
+
+         try {
+            result = "" + engine.eval(equ);
+            str = String.format("%s%s%s%n", this.txtInput.getText(), " = ", result);
+         } catch (ScriptException ex) {
+            ex.printStackTrace();
+            str = "Could not evaluate.\n";
+         }
+
+         this.txtOutput.append(str);
+         this.txtInput.setText(result);
+      } else {
+         // JOptionPane.showMessageDialog(null, "Not an equation");
+      }
+   }
+   
+   private void eval(String equ) {
+      ScriptEngineManager mgr = new ScriptEngineManager();
+      ScriptEngine engine = mgr.getEngineByName("JavaScript");
+
+//      String equ = this.txtInput.getText();
+      String str = null;
+      String result = null;
+
+      if (equ.contains("^") || equ.contains("-") || equ.contains("+") || equ.contains("*") || equ.contains("/")
+            || equ.contains("pow") || equ.contains("sqrt")) {
+
+         try {
+            result = "" + engine.eval(equ);
+            str = String.format("%s%s%s%n", this.txtInput.getText(), " = ", result);
+         } catch (ScriptException ex) {
+            ex.printStackTrace();
+            str = "Could not evaluate.\n";
+         }
+
+         this.txtOutput.append(str);
+         this.txtInput.setText(result);
+      } else {
+         // JOptionPane.showMessageDialog(null, "Not an equation");
+      }
    }
 
 }
