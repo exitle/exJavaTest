@@ -50,7 +50,6 @@ public class NotepadWindow extends JFrame implements ActionListener {
    public NotepadWindow() {
       super("Notepad");
       openGUI();
-
    }
 
    private void openGUI() {
@@ -100,12 +99,12 @@ public class NotepadWindow extends JFrame implements ActionListener {
 
       navBar.add(fileMenu);
       navBar.add(editMenu);
+
       txtPanel.setLayout(new BorderLayout());
       txtPanel.add(txtScroll, BorderLayout.CENTER);
       setJMenuBar(navBar);
       container.setLayout(new BorderLayout());
       container.add(txtPanel, BorderLayout.CENTER);
-
       add(container);
 
       /* Button ActionListeners */

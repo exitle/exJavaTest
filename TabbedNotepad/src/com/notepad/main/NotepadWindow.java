@@ -47,7 +47,7 @@ public class NotepadWindow extends JFrame implements ActionListener {
    private void notepadGUI() {
       container = new JPanel();
       tabbedPane = new TabbedPane();
-
+      
       // NavigationBar
       navBar = new JMenuBar();
       setJMenuBar(navBar);
