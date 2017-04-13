@@ -136,7 +136,7 @@ public class ShutdownGUI extends JFrame implements ActionListener {
          if (System.getProperty("os.name").equals("Linux")) {
             new Execute("shutdown " + getSlider());
          } else if (System.getProperty("os.name").startsWith("Windows")){
-            
+        	 new Execute("shutdown /s /t " + (getSlider()*60));
          }
          JOptionPane.showMessageDialog(null, String.format("%s%n%s", "Shutdown scheduled for:", timeStamp));
       }
@@ -147,7 +147,7 @@ public class ShutdownGUI extends JFrame implements ActionListener {
          if (System.getProperty("os.name").equals("Linux")) {
             new Execute("shutdown -c");
          } else if (System.getProperty("os.name").startsWith("Windows")){
-            
+        	 new Execute("shutdown /a");
          }
          JOptionPane.showMessageDialog(null, String.format("%s", "Shutdown canceled."));
       }
