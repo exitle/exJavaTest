@@ -5,6 +5,7 @@ import com.sys.close.ShutdownGUI;
 import com.sys.ping.PingMain;
 import com.sys.sound.SoundControl;
 import com.sys.sound.SoundControlTerm;
+import com.sys.sound.SoundGUI;
 
 public class Exec extends OS {
    /**
@@ -47,7 +48,7 @@ public class Exec extends OS {
             }
             break;
          case "help":
-            System.out.printf("%s%n%s%n%s%n%s%n%s%n%s%n", "Available commands:", "\tNo arguments - display GUI",
+            System.out.printf("%s%n%s%n%s%n%s%n%s%n%s%n%s%n", "Available commands:", "\tNo arguments - display GUI",
                   "\tvol - Control Volume" + "\n\t\t+x - Volume up by x%" + "\n\t\t-x - Volume down by x%"
                         + "\n\t\tx  - Volume set to x%",
                   "\tshut - Schedule system shutdown" + "\n\t\tx  - Shutdown in x minutes"
@@ -55,10 +56,15 @@ public class Exec extends OS {
                   "\tping - Print active IP adressess within selected range" + "\n\t\tdefault: 192.168.0-1.*"
                         + "\n\t\tAvailable options:" + "\n\t\t\t*   - range 0-255" + "\n\t\t\tx-y - range x-y"
                         + "\n\t\t\tx   - only x value",
-                  "\tshutGUI - Shutdown GUI");
+                  "\tshutGUI - Shutdown GUI",
+                  "\tvolGUI - Sound GUI"
+            );
             break;
          case "shutGUI":
             new ShutdownGUI();
+            break;
+         case "volGUI":
+            new SoundGUI();
             break;
          default:
             System.out.printf("%s%n%s%n", "Invalid argument. ", "Run with 'help' argument to list available options.");
