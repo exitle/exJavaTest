@@ -2,6 +2,7 @@ package com.sys.exec;
 
 import java.util.Scanner;
 
+import com.sys.ping.PingTerm;
 import com.sys.sound.SoundControlTerm;
 import com.sys.close.ShutdownTerm;
 
@@ -26,7 +27,7 @@ public class ExecTerm extends Exec {
             new ShutdownTerm();
             break;
          case 3:
-
+            new PingTerm();
             break;
 
          case 0:
