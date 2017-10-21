@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ff5e5e-8e8f-4d7e-ba8a-831c7143aed9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ZMetody.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Exec.java" afterPath="$PROJECT_DIR$/src/Exec.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ZMetody.java" afterPath="$PROJECT_DIR$/src/ZMetody.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,14 +40,14 @@
       <file leaf-file-name="ZMetody.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ZMetody.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+            <state relative-caret-position="140">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#594#595#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#683#684#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,8 +124,8 @@
         <option value="$PROJECT_DIR$/src/ZLoop.java" />
         <option value="$PROJECT_DIR$/src/ZTbl.java" />
         <option value="$PROJECT_DIR$/src/Exec.java" />
-        <option value="$PROJECT_DIR$/src/ZMetody.java" />
         <option value="/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class" />
+        <option value="$PROJECT_DIR$/src/ZMetody.java" />
       </list>
     </option>
   </component>
@@ -632,14 +630,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ZMetody.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        <state relative-caret-position="140">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
           </folding>
         </state>
       </provider>

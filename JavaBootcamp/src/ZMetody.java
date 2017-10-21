@@ -19,7 +19,7 @@ public class ZMetody {
         li.add(c);
         Collections.sort(li);
 
-        return (li.get(0) * li.get(0) + li.get(1) * li.get(1) == li.get(2) * li.get(2)) ? true : false;
+        return li.get(0) * li.get(0) + li.get(1) * li.get(1) == li.get(2) * li.get(2);
     }
 
     public boolean isSquare(int a) {
@@ -28,6 +28,11 @@ public class ZMetody {
 
     public boolean isCube(int a) {
         return (Math.cbrt((double) a) % 1 == 0) ? true : false;
+    }
+
+    public boolean isPrime(int a){
+
+        return false;
     }
 
     public int sumOfDigits(int a) {
