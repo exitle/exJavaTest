@@ -55,9 +55,9 @@ public class TxtReader {
       // tr.addColumn(col);
 
       // System.out.println(tr.getFileList().toString());
-      // System.out.println(tr.getFileMap());
+//       System.out.println(tr.getFileMap());
 
-      new TextWriter(tr, "Test.csv", ",");
+      //new TextWriter(tr, "Test.csv", ",");
 
    }
 

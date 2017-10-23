@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea133dc6-5633-49af-89fe-6c55a3587672" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.lock" afterPath="$PROJECT_DIR$/../.metadata/.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/segments.gen" afterPath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/segments_1" afterPath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/segments_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.mylyn/repositories.xml.zip" afterPath="$PROJECT_DIR$/../.metadata/.mylyn/repositories.xml.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.mylyn/tasks.xml.zip" afterPath="$PROJECT_DIR$/../.metadata/.mylyn/tasks.xml.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache/segments.gen" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache/segments_1" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache/segments_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdt" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdx" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fnm" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fnm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.frq" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.frq" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.nrm" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.nrm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tii" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tii" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tis" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tis" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments.gen" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments_1" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/write.lock" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/write.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fdt" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fdt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fdx" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fdx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fnm" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fnm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.frq" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.frq" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.nrm" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.nrm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.tii" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.tii" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.tis" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.tis" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments_1" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BlackJack/bin/BlackJack.class" afterPath="$PROJECT_DIR$/../BlackJack/bin/BlackJack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Calc/bin/Calc.class" afterPath="$PROJECT_DIR$/../Calc/bin/Calc.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Calc/bin/src/Calc.class" afterPath="$PROJECT_DIR$/../Calc/bin/src/Calc.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Dokument bez nazwy" afterPath="$PROJECT_DIR$/../Dokument bez nazwy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Excel/opencsv-3.9.jar" afterPath="$PROJECT_DIR$/../Excel/opencsv-3.9.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Frames/src/Calc.class" afterPath="$PROJECT_DIR$/../Frames/src/Calc.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MultiplicationTable/bin/MultiplicationTable.class" afterPath="$PROJECT_DIR$/../MultiplicationTable/bin/MultiplicationTable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Ping/bin/Ping.class" afterPath="$PROJECT_DIR$/../Ping/bin/Ping.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/SysControl.jar" afterPath="$PROJECT_DIR$/../SysControl/SysControl.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/bin/klient/ClientWindow$1.class" afterPath="$PROJECT_DIR$/../Szkolenie/bin/klient/ClientWindow$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/bin/klient/ClientWindow.class" afterPath="$PROJECT_DIR$/../Szkolenie/bin/klient/ClientWindow.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/bin/klient/Klient.class" afterPath="$PROJECT_DIR$/../Szkolenie/bin/klient/Klient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/bin/klient/Reader.class" afterPath="$PROJECT_DIR$/../Szkolenie/bin/klient/Reader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/bin/serwer/Klient.class" afterPath="$PROJECT_DIR$/../Szkolenie/bin/serwer/Klient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/bin/serwer/ListChecker.class" afterPath="$PROJECT_DIR$/../Szkolenie/bin/serwer/ListChecker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/bin/serwer/ServerWindow$1.class" afterPath="$PROJECT_DIR$/../Szkolenie/bin/serwer/ServerWindow$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/bin/serwer/ServerWindow.class" afterPath="$PROJECT_DIR$/../Szkolenie/bin/serwer/ServerWindow.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/bin/serwer/Serwer.class" afterPath="$PROJECT_DIR$/../Szkolenie/bin/serwer/Serwer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notepad.zip" afterPath="$PROJECT_DIR$/Notepad.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/FileAccess.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/FileAccess.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$1.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$10.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$11.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$2.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$3.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$4.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$5.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$6.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$7.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$8.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$8.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$9.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/NotepadWindow.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/RunNotepad$1.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/RunNotepad$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/RunNotepad.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/RunNotepad.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/Tab$1.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/Tab$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/Tab$2.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/Tab$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/Tab.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/Tab.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/TabbedPane$1.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/TabbedPane$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/notepad/main/TabbedPane.class" afterPath="$PROJECT_DIR$/bin/com/notepad/main/TabbedPane.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/bin/Test.class" afterPath="$PROJECT_DIR$/../Test/bin/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/bin/ToDo.class" afterPath="$PROJECT_DIR$/../Test/bin/ToDo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/bin/ToDoList.class" afterPath="$PROJECT_DIR$/../Test/bin/ToDoList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/bin/WriteToFileExample.class" afterPath="$PROJECT_DIR$/../Test/bin/WriteToFileExample.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test2/bin/Test.class" afterPath="$PROJECT_DIR$/../Test2/bin/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Threads/bin/src/MyThread.class" afterPath="$PROJECT_DIR$/../Threads/bin/src/MyThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Threads/bin/src/ThreadRunner.class" afterPath="$PROJECT_DIR$/../Threads/bin/src/ThreadRunner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools2/bin/src/FileControl.class" afterPath="$PROJECT_DIR$/../Tools2/bin/src/FileControl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools2/bin/src/Testing.class" afterPath="$PROJECT_DIR$/../Tools2/bin/src/Testing.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TxtReader/bin/TextReader.class" afterPath="$PROJECT_DIR$/../TxtReader/bin/TextReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TxtReader/bin/TextWriter.class" afterPath="$PROJECT_DIR$/../TxtReader/bin/TextWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TxtReader/bin/TxtReader.class" afterPath="$PROJECT_DIR$/../TxtReader/bin/TxtReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.classpath" afterPath="$PROJECT_DIR$/../.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.7.0.20160603-1933.xml" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.7.0.20160603-1933.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/version.ini" afterPath="$PROJECT_DIR$/../.metadata/version.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.project" afterPath="$PROJECT_DIR$/../.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BlackJack/.classpath" afterPath="$PROJECT_DIR$/../BlackJack/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BlackJack/.project" afterPath="$PROJECT_DIR$/../BlackJack/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BlackJack/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/../BlackJack/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BlackJack/src/BlackJack.java" afterPath="$PROJECT_DIR$/../BlackJack/src/BlackJack.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Calc/bin/.project" afterPath="$PROJECT_DIR$/../Calc/bin/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Calc/bin/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/../Calc/bin/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Calc/bin/src/Calc.form" afterPath="$PROJECT_DIR$/../Calc/bin/src/Calc.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CalcNew/.classpath" afterPath="$PROJECT_DIR$/../CalcNew/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CalcNew/.gitignore" afterPath="$PROJECT_DIR$/../CalcNew/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CalcNew/.project" afterPath="$PROJECT_DIR$/../CalcNew/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CalcNew/src/CalcFrame.java" afterPath="$PROJECT_DIR$/../CalcNew/src/CalcFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CalcNew/src/CalcRun.java" afterPath="$PROJECT_DIR$/../CalcNew/src/CalcRun.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Cards/.classpath" afterPath="$PROJECT_DIR$/../Cards/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Cards/.gitignore" afterPath="$PROJECT_DIR$/../Cards/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Cards/.project" afterPath="$PROJECT_DIR$/../Cards/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Cards/src/Card.java" afterPath="$PROJECT_DIR$/../Cards/src/Card.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Cards/src/Deck.java" afterPath="$PROJECT_DIR$/../Cards/src/Deck.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Cards/src/Game.java" afterPath="$PROJECT_DIR$/../Cards/src/Game.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Cards/src/War.java" afterPath="$PROJECT_DIR$/../Cards/src/War.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Excel/.classpath" afterPath="$PROJECT_DIR$/../Excel/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Excel/.project" afterPath="$PROJECT_DIR$/../Excel/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Excel/Book.csv" afterPath="$PROJECT_DIR$/../Excel/Book.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Excel/src/CsvReader.java" afterPath="$PROJECT_DIR$/../Excel/src/CsvReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Frames/.classpath" afterPath="$PROJECT_DIR$/../Frames/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Frames/.project" afterPath="$PROJECT_DIR$/../Frames/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Frames/GetKeycode.java" afterPath="$PROJECT_DIR$/../Frames/GetKeycode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Frames/src/TextFieldFrame.java" afterPath="$PROJECT_DIR$/../Frames/src/TextFieldFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Frames/src/TextFieldTest.java" afterPath="$PROJECT_DIR$/../Frames/src/TextFieldTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MultiplicationTable/.classpath" afterPath="$PROJECT_DIR$/../MultiplicationTable/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MultiplicationTable/.project" afterPath="$PROJECT_DIR$/../MultiplicationTable/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MultiplicationTable/src/MultiplicationTable.java" afterPath="$PROJECT_DIR$/../MultiplicationTable/src/MultiplicationTable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Notepad/.classpath" afterPath="$PROJECT_DIR$/../Notepad/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Notepad/.project" afterPath="$PROJECT_DIR$/../Notepad/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Notepad/src/NotepTesting.java" afterPath="$PROJECT_DIR$/../Notepad/src/NotepTesting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Notepad/src/Notepad.java" afterPath="$PROJECT_DIR$/../Notepad/src/Notepad.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Notepad/src/NotepadWindow.java" afterPath="$PROJECT_DIR$/../Notepad/src/NotepadWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Notepad/test.txt" afterPath="$PROJECT_DIR$/../Notepad/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Ping/.classpath" afterPath="$PROJECT_DIR$/../Ping/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Ping/.project" afterPath="$PROJECT_DIR$/../Ping/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Ping/src/Ping.java" afterPath="$PROJECT_DIR$/../Ping/src/Ping.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Ping/src/PingAll.java" afterPath="$PROJECT_DIR$/../Ping/src/PingAll.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Ping/src/PingExec.java" afterPath="$PROJECT_DIR$/../Ping/src/PingExec.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Ping/src/PingMain.java" afterPath="$PROJECT_DIR$/../Ping/src/PingMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/.classpath" afterPath="$PROJECT_DIR$/../SysControl/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../SysControl/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/.project" afterPath="$PROJECT_DIR$/../SysControl/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/close/Shutdown.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/close/Shutdown.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/close/ShutdownGUI.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/close/ShutdownGUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/close/ShutdownTerm.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/close/ShutdownTerm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/exec/Exec.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/exec/Exec.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/exec/ExecTerm.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/exec/ExecTerm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/exec/OS.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/exec/OS.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/ping/Ping.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/ping/Ping.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/ping/PingMain.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/ping/PingMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/ping/PingTerm.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/ping/PingTerm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/sound/SoundControl.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/sound/SoundControl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/sound/SoundControlTerm.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/sound/SoundControlTerm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/sound/SoundGUI.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/sound/SoundGUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/sound/SoundTesting.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/sound/SoundTesting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/terminal/tools/Execute.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/terminal/tools/Execute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/.classpath" afterPath="$PROJECT_DIR$/../Szkolenie/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/.gitignore" afterPath="$PROJECT_DIR$/../Szkolenie/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/.project" afterPath="$PROJECT_DIR$/../Szkolenie/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/../Szkolenie/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/src/klient/ClientWindow.java" afterPath="$PROJECT_DIR$/../Szkolenie/src/klient/ClientWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/src/klient/Klient.java" afterPath="$PROJECT_DIR$/../Szkolenie/src/klient/Klient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/src/serwer/ServerWindow.java" afterPath="$PROJECT_DIR$/../Szkolenie/src/serwer/ServerWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Szkolenie/src/serwer/Serwer.java" afterPath="$PROJECT_DIR$/../Szkolenie/src/serwer/Serwer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/notepad/main/FileAccess.java" afterPath="$PROJECT_DIR$/src/com/notepad/main/FileAccess.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/notepad/main/NotepadWindow.java" afterPath="$PROJECT_DIR$/src/com/notepad/main/NotepadWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/notepad/main/RunNotepad.java" afterPath="$PROJECT_DIR$/src/com/notepad/main/RunNotepad.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/notepad/main/Tab.java" afterPath="$PROJECT_DIR$/src/com/notepad/main/Tab.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/notepad/main/TabbedPane.java" afterPath="$PROJECT_DIR$/src/com/notepad/main/TabbedPane.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/.classpath" afterPath="$PROJECT_DIR$/../Test/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/.project" afterPath="$PROJECT_DIR$/../Test/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/ToDo.html" afterPath="$PROJECT_DIR$/../Test/ToDo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/ToDo.txt" afterPath="$PROJECT_DIR$/../Test/ToDo.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/ToDo2.txt" afterPath="$PROJECT_DIR$/../Test/ToDo2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/ToDo3.txt" afterPath="$PROJECT_DIR$/../Test/ToDo3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/src/Test.java" afterPath="$PROJECT_DIR$/../Test/src/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/src/ToDo.java" afterPath="$PROJECT_DIR$/../Test/src/ToDo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/src/ToDoList.java" afterPath="$PROJECT_DIR$/../Test/src/ToDoList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test/src/WriteToFileExample.java" afterPath="$PROJECT_DIR$/../Test/src/WriteToFileExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test2/.classpath" afterPath="$PROJECT_DIR$/../Test2/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test2/.project" afterPath="$PROJECT_DIR$/../Test2/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test2/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/../Test2/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Test2/src/Test.java" afterPath="$PROJECT_DIR$/../Test2/src/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Threads/bin/.project" afterPath="$PROJECT_DIR$/../Threads/bin/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/.classpath" afterPath="$PROJECT_DIR$/../Tools/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/.project" afterPath="$PROJECT_DIR$/../Tools/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/src/FileControl.java" afterPath="$PROJECT_DIR$/../Tools/src/FileControl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/src/Testing.java" afterPath="$PROJECT_DIR$/../Tools/src/Testing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools/testing.txt" afterPath="$PROJECT_DIR$/../Tools/testing.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools2/src/FileControl.java" afterPath="$PROJECT_DIR$/../Tools2/src/FileControl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Tools2/src/Testing.java" afterPath="$PROJECT_DIR$/../Tools2/src/Testing.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TxtReader/.classpath" afterPath="$PROJECT_DIR$/../TxtReader/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TxtReader/.gitignore" afterPath="$PROJECT_DIR$/../TxtReader/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TxtReader/.project" afterPath="$PROJECT_DIR$/../TxtReader/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TxtReader/Book.csv" afterPath="$PROJECT_DIR$/../TxtReader/Book.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TxtReader/FL_insurance_sample.csv" afterPath="$PROJECT_DIR$/../TxtReader/FL_insurance_sample.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TxtReader/Test.csv" afterPath="$PROJECT_DIR$/../TxtReader/Test.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TxtReader/src/TextReader.java" afterPath="$PROJECT_DIR$/../TxtReader/src/TextReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TxtReader/src/TextWriter.java" afterPath="$PROJECT_DIR$/../TxtReader/src/TextWriter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TxtReader/src/TxtReader.java" afterPath="$PROJECT_DIR$/../TxtReader/src/TxtReader.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/notepad/main/RunNotepad.java" />
+        <option value="$PROJECT_DIR$/src/com/notepad/main/KeyEventDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1982" />
+    <option name="y" value="-11" />
+    <option name="width" value="1859" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TabbedNotepad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TabbedNotepad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TabbedNotepad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TabbedNotepad" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TabbedNotepad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TabbedNotepad" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.KeyEventDemo">
+    <configuration name="KeyEventDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.notepad.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.notepad.main.KeyEventDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TabbedNotepad" />
+      <envs />
+    </configuration>
+    <configuration name="RunNotepad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.notepad.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.notepad.main.RunNotepad" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TabbedNotepad" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TabbedNotepad" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.RunNotepad" />
+      <item index="1" class="java.lang.String" itemvalue="Application.KeyEventDemo" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.KeyEventDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RunNotepad" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea133dc6-5633-49af-89fe-6c55a3587672" name="Default" comment="" />
+      <created>1496681178841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496681178841</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1982" y="-11" width="1857" height="1092" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/RunNotepad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/TabbedPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/Tab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/NotepadWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/FileAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/KeyEventDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/RunNotepad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/RunNotepad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/RunNotepad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/RunNotepad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/FileAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/NotepadWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/Tab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/TabbedPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/notepad/main/KeyEventDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TabbedNotepad</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

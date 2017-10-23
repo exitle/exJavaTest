@@ -8,7 +8,7 @@ public class SoundControlTerm extends Exec {
 
    public SoundControlTerm() {
       int choice = 1;
-      int x = 0;
+      int x;
 
       if (!super.getOs().equals("Linux")) {
          System.out.printf("%s%n%s%n%s%n%n%s", "Your OS is not yet supported.", "Currently supported OS:", "\tLinux",
