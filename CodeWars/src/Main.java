@@ -2,6 +2,10 @@ import tasks.d20171023.JosephusSurvivor;
 import tasks.d20171023.RomanConversion;
 import tasks.d20171023.Runes;
 import tasks.d20171023.WhichAreIn;
+import tasks.d20171031.CountIPAddresses;
+import tasks.d20171031.FactorialTailingZeros;
+import tasks.d20171031.GapInPrimes;
+import tasks.d20171031.Scramblies;
 
 public class Main {
     public static void main(String[] args) {
@@ -32,7 +36,15 @@ public class Main {
 
 //        System.out.println(JosephusSurvivor.josephusSurvivor(11,19));
 
-        Runes.solveExpression("123*45?=5?088");
+//        Runes.solveExpression("123*45?=5?088");
+
+//        GapInPrimes.gap(10,300,400);
+
+//        System.out.println(Scramblies.scramble("scraiptjavx","javascript"));
+
+//        System.out.println(CountIPAddresses.ipsBetween("170.0.0.0", "170.1.0.0"));
+
+        System.out.println(FactorialTailingZeros.zeros(100));
 
     }
 }
