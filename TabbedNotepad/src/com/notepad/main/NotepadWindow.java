@@ -215,7 +215,11 @@ public class NotepadWindow extends JFrame implements ActionListener {
          int key = e.getKeyCode();
          if ((key == KeyEvent.VK_N) && ((e.getModifiers() & KeyEvent.CTRL_MASK) != 0)) {
             tabbedPane.addTab();
-         }         
+            setStartupFocus();
+         }
+         if ((key == KeyEvent.VK_W) && ((e.getModifiers() & KeyEvent.CTRL_MASK) != 0)) {
+            tabbedPane.closeTab();
+         }
       }
 
       @Override
