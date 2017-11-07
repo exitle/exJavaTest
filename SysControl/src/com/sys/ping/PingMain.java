@@ -36,12 +36,12 @@ public class PingMain {
 
 	private void loopIp() {
 		for (int i : ipL.get(0)) {
-			System.out.print((ipL.get(0).size() > 1) ? String.format("%s%d%s%n", "Checking range: ", i, ".*.*.*") : "");
+			System.out.print((ipL.get(0).size() > 1) ? String.format("Checking range: %d%s%n",  i, ".*.*.*") : "");
 			for (int j : ipL.get(1)) {
 				System.out.print((ipL.get(1).size() > 1)
 						? String.format("%s%d%s%d%s%n", "Checking range:", i, ".", j, ".*.*") : "");
 				for (int k : ipL.get(2)) {
-					System.out.print(String.format("%s%d%s%d%s%d%s%n", "Checking range:", i, ".", j, ".", k, ".*"));
+					System.out.print(String.format("Checking range: %d%s%d%s%d%s%n",  i, ".", j, ".", k, ".*"));
 					for (int l : ipL.get(3)) {
 						String ipVal = i + "." + j + "." + k + "." + l;
 						new Ping(ipVal).start();

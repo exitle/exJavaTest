@@ -30,7 +30,16 @@ public class Ping extends Thread {
    @Override
    public void run() {
       this.isAlive = isAlive(ip);
-      if (this.isAlive) System.out.println(ip);// + " : " + isAlive);
+      if (this.isAlive){
+         System.out.println(ip);
+//         try {
+//             Process p = Runtime.getRuntime().exec(new String[] { "bash", "-c", "nbtscan " + ip  });
+//             BufferedReader br = new BufferedReader(new InputStreamReader(p.getInputStream()));
+//             System.out.println(br.readLine());
+//         }catch (Exception e) {
+//             e.printStackTrace();
+//         }
+      }
 
    }
 
