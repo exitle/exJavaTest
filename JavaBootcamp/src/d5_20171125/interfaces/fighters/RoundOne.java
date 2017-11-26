@@ -1,9 +1,9 @@
 package d5_20171125.interfaces.fighters;
 
 
-import d5_20171125.interfaces.fighters.abstracts.Boxer;
-import d5_20171125.interfaces.fighters.abstracts.Fighter;
-import d5_20171125.interfaces.fighters.abstracts.Karate;
+import d5_20171125.interfaces.fighters.inheritance.Boxer;
+import d5_20171125.interfaces.fighters.inheritance.Fighter;
+import d5_20171125.interfaces.fighters.inheritance.Karate;
 
 import java.util.Scanner;
 

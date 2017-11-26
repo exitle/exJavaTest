@@ -8,8 +8,8 @@ import d5_20171125.interfaces.smarthouse.SmartHouse;
 public class Main {
     public static void main(String[] args) {
         SmartHouse sh = new SmartHouse();
-        sh.print("test");
-        sh.printBW("test");
+        sh.print(0,"test");
+        sh.printBW(1,"test");
         sh.shutdown();
     }
 }

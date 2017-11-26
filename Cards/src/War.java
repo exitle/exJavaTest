@@ -107,7 +107,7 @@ public class War {
                 stack.add(p2);
             }
 
-//			if ( counter==10000 ) break;
+			if ( counter==10000 ) break;
 
             counter++;
         }

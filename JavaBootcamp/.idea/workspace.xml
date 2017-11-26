@@ -2,36 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ff5e5e-8e8f-4d7e-ba8a-831c7143aed9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/RoundOne.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Boxer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Fighter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Karate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/Boxer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/Fighter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/Karate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/SmartHouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/HPPrinterDriver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/LGPrinterDriver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/LGTVDriver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/SamsungTVDriver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/HPPrinter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/LGPrinter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/Printer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/LGTV.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/SamsungTV.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/TV.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/z1_taxi/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Company.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Coordinates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Customer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Trip.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CodeWars/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CodeWars/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/inheritance/Boxer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/inheritance/Fighter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/inheritance/Karate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/Room.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/MusicPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/Track.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/TrackDatabase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/drivers/SpotifyDriver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/drivers/WinampDriver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/players/Spotify.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/players/Winamp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/NoPrinter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/users/Admin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/users/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/Zadania/BankAccount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/Zadania/DivisionByZeroException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/Zadania/DivisionByZeroRuntimeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/Zadania/InsufficientFundsException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/Zadania/Z1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/enums/Gender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/enums/Patient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/exceptions/ExTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/exceptions/IllegalTableStateException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/exceptions/NumberManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/generic/Box.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/generic/GenericsExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/d6_20171126/generic/Person.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/fighters/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/fighters/interfaces/RoundOne.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/drivers/HPPrinterDriver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/drivers/LGPrinterDriver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/drivers/LGTVDriver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/drivers/SamsungTVDriver.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/HPPrinterDriver.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/drivers/HPPrinterDriver.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/LGPrinterDriver.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/drivers/LGPrinterDriver.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/LGTVDriver.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/drivers/LGTVDriver.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/SamsungTVDriver.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/drivers/SamsungTVDriver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/Main.class" afterPath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/SmartHouse.class" afterPath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/SmartHouse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/printers/HPPrinter.class" afterPath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/printers/HPPrinter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/printers/LGPrinter.class" afterPath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/printers/LGPrinter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/printers/Printer.class" afterPath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/printers/Printer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/tv/LGTV.class" afterPath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/tv/LGTV.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/tv/SamsungTV.class" afterPath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/tv/SamsungTV.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/tv/TV.class" afterPath="$PROJECT_DIR$/out/production/JavaBootcamp/d5_20171125/interfaces/smarthouse/tv/TV.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Cards/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Cards/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Cards/src/War.java" afterPath="$PROJECT_DIR$/../Cards/src/War.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/Main.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/RoundOne.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/RoundOne.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Karate.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Karate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/SmartHouse.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/SmartHouse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/HPPrinter.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/HPPrinter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/LGPrinter.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/LGPrinter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/Printer.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/Printer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/LGTV.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/LGTV.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/SamsungTV.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/SamsungTV.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/TV.java" afterPath="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/TV.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SysControl/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SysControl/src/com/sys/sound/SoundControl.java" afterPath="$PROJECT_DIR$/../SysControl/src/com/sys/sound/SoundControl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TicTacToe/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TicTacToe/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,69 +82,43 @@
     <favorites_list name="JavaBootcamp" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RoundOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/RoundOne.java">
+    <leaf>
+      <file leaf-file-name="GenericsExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/d6_20171126/generic/GenericsExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="100">
+              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fighter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Fighter.java">
+      <file leaf-file-name="NumberManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/d6_20171126/exceptions/NumberManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/d6_20171126/exceptions/ExTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Box.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/d6_20171126/generic/Box.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding>
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Karate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Karate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Boxer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Boxer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Boxer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/Boxer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-              </folding>
+              <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -125,6 +130,7 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -148,57 +154,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/d3_20171104/Algorithms/Z3.java" />
-        <option value="$PROJECT_DIR$/src/d3_20171104/Algorithms/Z4.java" />
-        <option value="$PROJECT_DIR$/src/d3_20171104/Algorithms/Z2.java" />
-        <option value="$PROJECT_DIR$/src/d3_20171104/Algorithms/Z7.java" />
-        <option value="$PROJECT_DIR$/src/d3_20171104/Klasy/Opona.java" />
-        <option value="$PROJECT_DIR$/src/d3_20171104/Klasy/Tire.java" />
-        <option value="$PROJECT_DIR$/src/d3_20171104/Klasy/TireWarehouse.java" />
-        <option value="$PROJECT_DIR$/src/d3_20171104/Klasy/WarehouseRun.java" />
-        <option value="$PROJECT_DIR$/src/d4_20171105/Tablice.java" />
-        <option value="$PROJECT_DIR$/src/d4_20171105/Product/Product.java" />
-        <option value="$PROJECT_DIR$/src/d4_20171105/Product/Run.java" />
-        <option value="$PROJECT_DIR$/src/d4_20171105/Library/Simulation.java" />
-        <option value="$PROJECT_DIR$/src/d4_20171105/Library/GetBooks.java" />
-        <option value="$PROJECT_DIR$/src/d4_20171105/Library/Library.java" />
-        <option value="$PROJECT_DIR$/src/d4_20171105/Library/Book.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/Main.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Customer.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Car.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Coordinates.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/z1_taxi/Test.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Trip.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Company.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/Printers/HPPrinterDriver.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/Printers/LGPrinterDriver.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/Printers/smarthouse/Printer.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/Printers/smarthouse/HPPrinter.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/Printers/drivers/LGPrinterDriver.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/Printers/smarthouse/LGPrinter.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/Printers/smarthouse/SmartHouse.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/Printers/LGPrinter.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/Printers/LGPrinter.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/Printers/Printer.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/Printer.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/TV.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/LGTV.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/SamsungTV.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/SamsungTVDriver.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/LGTVDriver.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/Main.java" />
         <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/HPPrinterDriver.java" />
         <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/LGPrinterDriver.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/SmartHouse.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/HPPrinter.java" />
         <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/Fighter.java" />
         <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/Karate.java" />
         <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/Boxer.java" />
         <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/RoundOne.java" />
-        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/RoundOne.java" />
         <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Boxer.java" />
         <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Fighter.java" />
         <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Karate.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/drivers/Spotify.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/drivers/WinampDriver.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/Track.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/TackDatabase.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/drivers/SpotifyDriver.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/MusicPlayer.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/players/Winamp.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/players/Spotify.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/RoundOne.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/inheritance/Karate.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/inheritance/Fighter.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/inheritance/Boxer.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/enums/Patient.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/Main.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/Room.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/TV.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/users/Wife.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/users/Child.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/users/User.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/TrackDatabase.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/LGTV.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/SamsungTV.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/Main.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/Printer.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/LGPrinter.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/HPPrinter.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/NoPrinter.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/drivers/LGPrinterDriver.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/drivers/SamsungTVDriver.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/users/Admin.java" />
+        <option value="$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/SmartHouse.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/enums/Gender.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/exceptions/TableIsNullException.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/Zadania/InsufficientFundsException.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/Zadania/BankAccount.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/Zadania/DivisionByZeroException.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/Zadania/DivisionByZeroRuntimeException.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/Zadania/Z1.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/generic/Box.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/generic/GenericsExample.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/exceptions/NumberManager.java" />
+        <option value="$PROJECT_DIR$/src/d6_20171126/exceptions/ExTest.java" />
       </list>
     </option>
   </component>
@@ -227,7 +233,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -268,7 +273,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="d5_20171125" />
+              <option name="myItemId" value="d6_20171126" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -286,37 +291,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="d5_20171125" />
+              <option name="myItemId" value="d6_20171126" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="interfaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaBootcamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaBootcamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d5_20171125" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interfaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fighters" />
+              <option name="myItemId" value="generic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,55 +313,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="d5_20171125" />
+              <option name="myItemId" value="d6_20171126" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="interfaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fighters" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interfaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaBootcamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaBootcamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d5_20171125" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interfaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fighters" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="abstracts" />
+              <option name="myItemId" value="exceptions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -395,7 +337,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CodeWars" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -404,12 +346,18 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="d3_20171104.Methods" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="d5_20171125.interfaces.smarthouse.music.drivers" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="d6_20171126.generic" />
+      <recent name="d6_20171126.Zadania" />
+      <recent name="d6_20171126.exceptions" />
+      <recent name="d5_20171125.interfaces.smarthouse.music" />
       <recent name="d5_20171125.interfaces.fighters.interfaces" />
-      <recent name="d5_20171125.interfaces.Printers.smarthouse" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -424,67 +372,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RoundOne">
-    <configuration default="false" name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="W2_Homework.Z3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="W2_Homework.Z3.Run" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaBootcamp" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="d5_20171125.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="d5_20171125.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaBootcamp" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="d5_20171125.z1_taxi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="d5_20171125.z1_taxi.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaBootcamp" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Z1">
     <configuration default="false" name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -513,6 +401,66 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="d5_20171125.interfaces.fighters.RoundOne" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaBootcamp" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="d6_20171126.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="d6_20171126.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaBootcamp" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="d6_20171126.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="d6_20171126.exceptions.ExTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaBootcamp" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Z1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="d6_20171126.Zadania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="d6_20171126.Zadania.Z1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -730,19 +678,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Run (3)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RoundOne" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RoundOne" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ExTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Z1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RoundOne" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Run (3)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Z1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ExTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RoundOne" />
       </list>
     </recent_temporary>
   </component>
@@ -788,6 +736,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2039725" sideWeight="0.4922049" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980901" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -798,7 +747,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884902" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925898" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -848,312 +796,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/d3_20171104/ClassAndObjects/Bulb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d3_20171104/Algorithms/Z4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d3_20171104/Algorithms/Z7.java___jb_tmp___" />
-    <entry file="file://$PROJECT_DIR$/src/d3_20171104/Algorithms/Z7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d3_20171104/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d3_20171104/Klasy/Tire.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d3_20171104/Klasy/TireWarehouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="57" column="44" lean-forward="false" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d3_20171104/Klasy/WarehouseRun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d3_20171104/Notes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d2_20171022/classes1/vavatech/Task4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d4_20171105/Tasks.java" />
-    <entry file="file://$PROJECT_DIR$/src/d4_20171105/Product/Shops.java" />
-    <entry file="file://$PROJECT_DIR$/src/d4_20171105/Product/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="23" column="59" lean-forward="false" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d4_20171105/Product/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d4_20171105/Library/GetBooks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d4_20171105/Library/Simulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d4_20171105/Library/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d4_20171105/Tablice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="9" lean-forward="false" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class" />
-    <entry file="file://$PROJECT_DIR$/src/d4_20171105/Library/Library.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/W2_Homework/Z1/Run.java" />
-    <entry file="file://$PROJECT_DIR$/src/W2_Homework/Z2/Run.java" />
-    <entry file="file://$PROJECT_DIR$/src/W2_Homework/Z3/Run.java" />
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/z1_taxi/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Coordinates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Trip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="51" lean-forward="true" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/z1_taxi/taxi/Company.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="43" column="34" lean-forward="true" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/SamsungTVDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding>
-            <element signature="e#141#142#0" expanded="false" />
-            <element signature="e#198#199#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/LGTVDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/LGPrinterDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="e#243#244#0" expanded="false" />
-            <element signature="e#298#299#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/drivers/HPPrinterDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/SmartHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/HPPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/LGPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/LGTV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <element signature="e#305#306#0" expanded="false" />
-            <element signature="e#338#339#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/SamsungTV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#330#331#0" expanded="false" />
-            <element signature="e#363#364#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/TV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/Fighter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -1162,28 +804,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/Karate.java">
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/Boxer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="400">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
           <folding>
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="false" />
+            <element signature="e#431#432#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/Boxer.java">
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/interfaces/Karate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="213">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="28" selection-end-column="5" />
           <folding>
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="false" />
+            <element signature="e#709#710#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/drivers/WinampDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#294#295#0" expanded="false" />
+            <element signature="e#350#351#0" expanded="false" />
+            <element signature="e#380#381#0" expanded="false" />
+            <element signature="e#440#441#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1191,45 +842,507 @@
     <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Boxer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="false" />
+            <element signature="e#183#184#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/drivers/SpotifyDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/players/Winamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#480#481#0" expanded="false" />
+            <element signature="e#509#510#0" expanded="false" />
+            <element signature="e#549#550#0" expanded="false" />
+            <element signature="e#578#579#0" expanded="false" />
+            <element signature="e#618#619#0" expanded="false" />
+            <element signature="e#647#648#0" expanded="false" />
+            <element signature="e#691#692#0" expanded="false" />
+            <element signature="e#724#725#0" expanded="false" />
+            <element signature="e#768#769#0" expanded="false" />
+            <element signature="e#801#802#0" expanded="false" />
+            <element signature="e#847#848#0" expanded="false" />
+            <element signature="e#882#883#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/players/Spotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/Track.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Fighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Karate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="e#454#455#0" expanded="false" />
+            <element signature="e#485#486#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/RoundOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/inheritance/Fighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#400#401#0" expanded="false" />
+            <element signature="e#427#428#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/inheritance/Karate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#180#181#0" expanded="false" />
+            <element signature="e#212#213#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/inheritance/Boxer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="e#152#153#0" expanded="false" />
+            <element signature="e#185#186#0" expanded="false" />
+            <element signature="e#238#239#0" expanded="false" />
+            <element signature="e#273#274#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
+            <element signature="e#349#350#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/enums/Patient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/users/Wife.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/users/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#413#414#0" expanded="false" />
+            <element signature="e#451#452#0" expanded="false" />
+            <element signature="e#675#676#0" expanded="false" />
+            <element signature="e#702#703#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/MusicPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/music/TrackDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Karate.java">
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/SamsungTV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="199">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/fighters/abstracts/Fighter.java">
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/LGTV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="19" selection-end-column="41" />
           <folding>
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#550#551#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/LGPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#507#508#0" expanded="false" />
+            <element signature="e#653#654#0" expanded="false" />
+            <element signature="e#680#681#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/HPPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#568#569#0" expanded="false" />
+            <element signature="e#632#633#0" expanded="false" />
+            <element signature="e#675#676#0" expanded="false" />
+            <element signature="e#702#703#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/NoPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#348#349#0" expanded="false" />
+            <element signature="e#375#376#0" expanded="false" />
+            <element signature="e#418#419#0" expanded="false" />
+            <element signature="e#445#446#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/drivers/HPPrinterDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/printers/drivers/LGPrinterDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/drivers/SamsungTVDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/drivers/LGTVDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/users/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#416#417#0" expanded="false" />
+            <element signature="e#456#457#0" expanded="false" />
+            <element signature="e#680#681#0" expanded="false" />
+            <element signature="e#707#708#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/SmartHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#1302#1303#0" expanded="true" />
+            <element signature="e#1344#1345#0" expanded="true" />
+            <element signature="e#1391#1392#0" expanded="true" />
+            <element signature="e#1445#1446#0" expanded="true" />
+            <element signature="e#1755#1756#0" expanded="true" />
+            <element signature="e#1796#1797#0" expanded="true" />
+            <element signature="e#1832#1833#0" expanded="true" />
+            <element signature="e#1873#1874#0" expanded="true" />
+            <element signature="e#1921#1922#0" expanded="true" />
+            <element signature="e#1977#1978#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d5_20171125/interfaces/smarthouse/tv/TV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/enums/Gender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#200#201#0" expanded="false" />
+            <element signature="e#246#247#0" expanded="false" />
+            <element signature="e#292#293#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/Zadania/DivisionByZeroException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/Zadania/InsufficientFundsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/Zadania/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/Zadania/DivisionByZeroRuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="68" lean-forward="false" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/Zadania/Z1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/exceptions/IllegalTableStateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/generic/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/generic/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/Optional.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/generic/GenericsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/exceptions/NumberManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d6_20171126/exceptions/ExTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
